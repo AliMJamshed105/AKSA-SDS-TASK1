@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "960054232220",
+    "firebase_url": "https://task1-bca59.firebaseio.com",
+    "project_id": "task1-bca59",
+    "storage_bucket": "task1-bca59.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960054232220:android:d40a1a9ae88d9f03e09959",
+        "android_client_info": {
+          "package_name": "com.example.task1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "960054232220-01mag7r8vb7ro1jsln3ia81hv0js6k9n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKFU6RQnx80qbjf-iYMvQ8kidFFb8hd_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "960054232220-01mag7r8vb7ro1jsln3ia81hv0js6k9n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
